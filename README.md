@@ -2,4 +2,6 @@ Postman-collection-Url https://api.postman.com/collections/19113672-c873feb4-9b3
 
 To run this node src/app.js
 
-requirements mkdir task-manager cd task-manager npm init -y npm install express mongoose bcryptjs jsonwebtoken dotenv
+requirements 
+npm init -y
+npm install express mongoose bcryptjs jsonwebtoken dotenv
